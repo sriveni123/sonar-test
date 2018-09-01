@@ -208,7 +208,7 @@
         <configuration>
           <formats
             <format>html</format>
-          </formats>
+          </formats
           <check />
         </configuration>
       </plugin>
